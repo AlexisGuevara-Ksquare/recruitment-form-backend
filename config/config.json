@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "root",
+    "database": "forms",
+    "host": "localhost",
+    "dialect": "postgres",
+    "models-path": "./src/models"
+    
+  },
+  "test": {
+    "username": "postgres",
+    "password": "root",
+    "database": "forms",
+    "host": "localhost",
+    "dialect": "postgres",
+    "models-path": "./src/models"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "root",
+    "database": "forms",
+    "host": "localhost",
+    "dialect": "postgres",
+    "models-path": "./src/models"
+  }
+}
